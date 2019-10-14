@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Changed network card in work station 069",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-10-10T16:59:34.446Z",
-      "id": 1
-    },
-    {
       "message": "Hard drive failed in workstation 002",
       "attention": false,
       "tech": "John Doe",
