@@ -8,11 +8,11 @@
       "id": 2
     },
     {
-      "message": "Changed network card in workstation 007",
+      "id": 3,
+      "message": "Fix network card in station 007",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-10-10T17:03:10.734Z",
-      "id": 3
+      "tech": "John Doe",
+      "date": "2019-10-15T03:56:25.854Z"
     },
     {
       "message": "New keyboard at workstation 007",
